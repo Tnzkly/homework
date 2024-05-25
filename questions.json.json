@@ -1,0 +1,22 @@
+{
+"1" : ["layered architecturehelps in reduceing networks design complexity","true"],
+"2" : ["TCP allows the sending process to deliver data as a stearm of byte","true"],
+"3" : ["STP was developed to solve layer 3 loops","false"],
+"4" : ["ports frome 0 to 1023 can be freely used as temporary or privte port number","false"],
+"5" : ["repeaters are basedband devices","true"],
+"6" : ["ARP resolve IP to MAC address","true"],
+"7" : ["ARP request is unicast","false"],
+"8" : ["ARP replay is unicast","true"],
+"9" : ["vlans allow us to implement logical grouping of devices by function rather than by geographic location","true"],
+"10" : ["in vlans the switch maintains a separate MAC table for each vlan","false"],
+"11" : ["in pure aloha the station can send any time","true"],
+"12" : ["in TCP the ISN is a random number","true"],
+"13" : ["leading bits of class C ara 110","true"],
+"14" : ["vlsm reduces the number of lost address compared flsm","true"],
+"15" : ["port number helps us to find witch process we are communicate with","true"],
+"16" : ["IEEE 802.1Q headeris larger than ISL header","false"],
+"17" : ["the ICMP replay sends pack the first 8 bytes of received packet in its payload","false"],
+"18" : ["BPDU is bridgeprotocol data unit","true"],
+"19" : ["what is the answer of 3+61","64"],
+"20" : ["what is the answer of 5+9","14"]
+}
